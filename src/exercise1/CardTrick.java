@@ -8,8 +8,6 @@ package exercise1;
  * @author Guri
  * @author Gurpartap Singh 6 Feb, 2024 
  */
-package exercise1;
-
 /**
  * A class that fills a hand of 7 cards with random Card Objects and then asks the user to pick a card.
  * It then searches the array of cards for the match to the user's card. 
@@ -46,6 +44,7 @@ public class CardTrick {
      * A simple method to print out personal information. Follow the instructions to 
      * replace this information with your own.
      */
+    //I'm Done
     private static void printInfo() {
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
